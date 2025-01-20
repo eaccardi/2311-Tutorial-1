@@ -1,1 +1,3 @@
 Hello World this is the first use of Git 
+
+This is a test of the new git branch
